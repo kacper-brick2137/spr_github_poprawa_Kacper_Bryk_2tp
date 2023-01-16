@@ -1,0 +1,9 @@
+cd documents 
+mkdir Spr_git_Kacper_Bryk
+cd Spr_git_Kacper_Bryk
+touch info.txt 
+git add . 
+git commit -m ""
+git revert
+Punkt 7.
+07.11.2022 13:48
